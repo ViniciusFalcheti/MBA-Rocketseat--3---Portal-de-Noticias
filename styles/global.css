@@ -50,55 +50,14 @@ main {
     margin-top: 40px;
 }
 
-/* 
-#app{
-    display: grid;
-    grid-template-areas:
-    "A A A A"
-    "B B C C"
-    "B B C C"
-    "D D D D"
-    "E E F F"
-    "E E F F"
-    "E E G G"
-    "E E G G";
-    height: 100vh;
-    gap: 20px;
+.content-tag {
+    display: inline-block;
+    background-color: var(--brand-color-dark);
+    border-radius: 4px;
+    padding: 4px 8px;
+    font: 500 10px/1.2 var(--font-family);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-color-primary);
+    box-shadow: 0px 4px 16px rgba(2, 6, 23, 0.251);
 }
-
-.primeiro {
-    grid-area: A;
-    background-color: rgb(197, 197, 0);
-}
-
-.segundo {
-    grid-area: B;
-    background-color: blueviolet;
-}
-
-.terceiro {
-    grid-area: C;
-    background-color: green;
-}
-
-.quarto {
-    grid-area: D;
-    background-color: rgb(0, 113, 206);
-}
-
-.quinto {
-    grid-area: E;
-    background-color: rgb(206, 76, 0);
-}
-
-
-.sexto {
-    grid-area: F;
-    background-color: rgb(206, 0, 10);;
-}
-
-
-.setimo {
-    grid-area: G;
-    background-color: rgb(206, 0, 137);
-} */
