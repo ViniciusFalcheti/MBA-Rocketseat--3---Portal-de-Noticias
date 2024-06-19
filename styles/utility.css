@@ -21,18 +21,18 @@
     gap: 16px;
 }
 
-.font-2xl {
+.text-2xl {
     font: var(--text-h1)
 }
 
-.font-xl {
+.text-xl {
     font: var(--text-h2)
 }
 
-.font-lg {
+.text-lg {
     font: var(--text-h3)
 }
 
-.font-sm {
+.text-sm {
     font: var(--text-span)
 }
