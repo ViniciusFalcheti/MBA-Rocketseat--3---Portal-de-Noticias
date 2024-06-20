@@ -3,6 +3,8 @@ section header {
     padding-block: 12px 24px;
     font: var(--text-span);
 
+    color: var(--text-color-secondary);
+
     a {
         justify-self: end;
         align-items: center;
